@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>bullet1.png</file>
+        <file>Group.png</file>
+        <file>Ship_space.png</file>
+        <file>background01.jpg</file>
+        <file>Grey_1.png</file>
+        <file>Grey_2.png</file>
+        <file>Grey_3.png</file>
+        <file>space_2.jpg</file>
+        <file>space_1.jpg</file>
+        <file>bullet_laser.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>corward_interstellar.mp3</file>
+        <file>Disparo.mp3</file>
+        <file>explosion1.mp3</file>
+        <file>explosion2.mp3</file>
+        <file>explosion3.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>background_space.jfif</file>
+    </qresource>
+</RCC>
