@@ -4,8 +4,8 @@
 #
 #-------------------------------------------------
 
-QT       += core gui \
-            multimedia \
+QT       += core gui\
+            multimedia\
             network widgets
 
 
