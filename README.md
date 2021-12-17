@@ -1,45 +1,13 @@
+Grupo 7 
+Integrantes:
+-Chavez Carpio Fidel Ronaldo
+-Cheje Apaza Adrian Oriel
+-Vasquez Alvarez Cesar Paul
+-Patiño Mendoza Deyner Junior
 
-Group Two 
-Group members: Jordan, David , Darin and Harkaran.
-
-
-
-Asteroids Game in QT Creator in C++ Language. 👍 💯 
-
-This is a simple game project to learn about Qt Creator and C++ to create games.
-
-=============================================
-Instruction of Game 
-============================================
-Game Ship moves with arrow keys 🔢  
-
-1.UP KEY - MOVE FORWARD 
-2.LEFT KEY - CHANGE ANGLE TO LEFT
-3.RIGHT KEY - CHANGE ANGLE TO RIGHT
-4.SPACE BAR - TO SHOOT BULLET 
-
-GAME PLAY 👍 
-
-Game starts with ship in the center of the window Rocks are moving from all the directions. 
-Fire bullet with space bar to destroy the rocks and getting score displayed on screen.
-If asteroids hit your ship, then your health will loose by one. 
-You can move your player to anywhere on screen it loop around the screen.
-
-we are implements a net work multiplayer game 
-which works on same network
-ship are placed and shooting bullet are working 
-
-
-
-OTHER THINGS
- 
-We are using some module which is not previously initialized.
-you have to put some modules in .pro file 
-in this format 
-
-QT       += core gui \
-multimedia \
-network widgets
-
-
-
+Juego ASTEROIDS
+![image](https://user-images.githubusercontent.com/64051733/146593517-a430b0ae-8d53-4d28-91d5-053814fd370a.png)
+![image](https://user-images.githubusercontent.com/64051733/146593565-87d6cdda-f2e0-4edb-8353-3736dfe8e780.png)
+![image](https://user-images.githubusercontent.com/64051733/146593579-55183792-ed78-481a-a59e-fe669bab6bb5.png)
+![image](https://user-images.githubusercontent.com/64051733/146593607-a943d29e-84d2-4f5a-ba21-a4d66676a9ef.png)
+![image](https://user-images.githubusercontent.com/64051733/146593634-059cdd3a-98de-4ef5-a0e1-c76b183ca5a5.png)
